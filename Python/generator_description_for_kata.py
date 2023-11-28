@@ -19,7 +19,7 @@ kata = Kata()
 
 def create_dir():
     kyu = str(dict_j['rank']['name']).replace(' ', '')
-    name = str(dict_j['name'].title()).replace(' ', '').replace(':', '')
+    name = str(dict_j['name'].title()).replace(' ', '').replace(':', '').replace(',', '')
     kata.directory = kyu + '/' + name
     if not os.path.isdir(kyu):
         os.mkdir(kyu)
