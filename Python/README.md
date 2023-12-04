@@ -1,4 +1,4 @@
-## [Python](./Python)
+## Python
 
 > Python — это высокоуровневый язык программирования, отличающийся
 > эффективностью, простотой и универсальностью использования.
@@ -36,11 +36,13 @@
 | GrasshopperSummation               |  8kyu   |                             [GrasshopperSummation](./8kyu/GrasshopperSummation) |
 | IsItANumber                        |  8kyu   |                                               [IsItANumber](./8kyu/IsItANumber) |
 | KeepUpTheHoop                      |  8kyu   |                                           [KeepUpTheHoop](./8kyu/KeepUpTheHoop) |
+| L1SetAlarm                         |  8kyu   |                                                 [L1SetAlarm](./8kyu/L1SetAlarm) |
 | PriceOfMangoes                     |  8kyu   |                                         [PriceOfMangoes](./8kyu/PriceOfMangoes) |
 | QuarterOfTheYear                   |  8kyu   |                                     [QuarterOfTheYear](./8kyu/QuarterOfTheYear) |
 | ReturnNegative                     |  8kyu   |                                         [ReturnNegative](./8kyu/ReturnNegative) |
 | ReversedSequence                   |  8kyu   |                                     [ReversedSequence](./8kyu/ReversedSequence) |
 | ReversedWords                      |  8kyu   |                                           [ReversedWords](./8kyu/ReversedWords) |
+| SimpleFun#261WhoseMove             |  8kyu   |                         [SimpleFun#261WhoseMove](./8kyu/SimpleFun#261WhoseMove) |
 | SumOfMultiples                     |  8kyu   |                                         [SumOfMultiples](./8kyu/SumOfMultiples) |
 | SumTheStrings                      |  8kyu   |                                           [SumTheStrings](./8kyu/SumTheStrings) |
 | TheFallingSpeedOfPetals            |  8kyu   |                       [TheFallingSpeedOfPetals](./8kyu/TheFallingSpeedOfPetals) |
