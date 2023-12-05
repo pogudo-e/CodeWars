@@ -46,7 +46,7 @@ def generate_readme_file():
         with open(ff, "w+") as file:
             for k in kata.markdown:
                 file.writelines(k)
-        print('README.md created')
+        print('README_home_dir.md created')
     else:
         print('File not created!')
     return
@@ -68,3 +68,5 @@ if __name__ == '__main__':
     markdown_cornerstone()
     generate_readme_file()
     generate_main_file()
+    print(kata.directory)
+    os.system('git add {}'.format(kata.directory))
