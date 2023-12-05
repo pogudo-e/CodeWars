@@ -14,6 +14,7 @@
 | TwoSum                             |  6kyu   |                                                         [TwoSum](./6kyu/TwoSum) |
 | YourOrderPlease                    |  6kyu   |                                       [YourOrderPlease](./6kyu/YourOrderPlease) |
 | BeginnerLostWithoutAMap            |  7kyu   |                       [BeginnerLostWithoutAMap](./7kyu/BeginnerLostWithoutAMap) |
+| DisemvowelTrolls                   |  7kyu   |                                     [DisemvowelTrolls](./7kyu/DisemvowelTrolls) |
 | FindTheStrayNumber                 |  7kyu   |                                 [FindTheStrayNumber](./7kyu/FindTheStrayNumber) |
 | GetTheMiddleCharacter              |  7kyu   |                           [GetTheMiddleCharacter](./7kyu/GetTheMiddleCharacter) |
 | ReverseWords                       |  7kyu   |                                             [ReverseWords](./7kyu/ReverseWords) |
