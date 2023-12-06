@@ -24,6 +24,7 @@
 | Testing1-2-3                       |  7kyu   |                                             [Testing1-2-3](./7kyu/Testing1-2-3) |
 | TheHighestProfitWins!              |  7kyu   |                           [TheHighestProfitWins!](./7kyu/TheHighestProfitWins!) |
 | AllStarCodeChallenge18             |  8kyu   |                         [AllStarCodeChallenge18](./8kyu/AllStarCodeChallenge18) |
+| AreaOrPerimeter                    |  8kyu   |                                       [AreaOrPerimeter](./8kyu/AreaOrPerimeter) |
 | ByteMe                             |  8kyu   |                                                         [ByteMe](./8kyu/ByteMe) |
 | ChuckNorrisVii-TrueOrFalseBeginner |  8kyu   | [ChuckNorrisVii-TrueOrFalseBeginner](./8kyu/ChuckNorrisVii-TrueOrFalseBeginner) |
 | ConvertANumberToAString            |  8kyu   |                       [ConvertANumberToAString](./8kyu/ConvertANumberToAString) |
