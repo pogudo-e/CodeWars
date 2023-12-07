@@ -32,6 +32,7 @@
 | DifferenceOfVolumesOfCuboids       |  8kyu   |             [DifferenceOfVolumesOfCuboids](./8kyu/DifferenceOfVolumesOfCuboids) |
 | FIXMEReplaseAllDots                |  8kyu   |                               [FIXMEReplaseAllDots](./8kyu/FIXMEReplaseAllDots) |
 | FilterOutTheGreese                 |  8kyu   |                                 [FilterOutTheGreese](./8kyu/FilterOutTheGreese) |
+| FindTheRemainder                   |  8kyu   |                                     [FindTheRemainder](./8kyu/FindTheRemainder) |
 | FlickSwitch                        |  8kyu   |                                               [FlickSwitch](./8kyu/FlickSwitch) |
 | Function1-HelloWorld               |  8kyu   |                             [Function1-HelloWorld](./8kyu/Function1-HelloWorld) |
 | Function2-SquaringAnArgument       |  8kyu   |             [Function2-SquaringAnArgument](./8kyu/Function2-SquaringAnArgument) |
