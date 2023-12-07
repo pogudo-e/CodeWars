@@ -16,6 +16,7 @@
 | BeginnerLostWithoutAMap            |  7kyu   |                       [BeginnerLostWithoutAMap](./7kyu/BeginnerLostWithoutAMap) |
 | DisemvowelTrolls                   |  7kyu   |                                     [DisemvowelTrolls](./7kyu/DisemvowelTrolls) |
 | FindTheStrayNumber                 |  7kyu   |                                 [FindTheStrayNumber](./7kyu/FindTheStrayNumber) |
+| FriendOrFoe?                       |  7kyu   |                                             [FriendOrFoe?](./7kyu/FriendOrFoe?) |
 | GetTheMiddleCharacter              |  7kyu   |                           [GetTheMiddleCharacter](./7kyu/GetTheMiddleCharacter) |
 | ReverseWords                       |  7kyu   |                                             [ReverseWords](./7kyu/ReverseWords) |
 | SmallestValueOfAnArray             |  7kyu   |                         [SmallestValueOfAnArray](./7kyu/SmallestValueOfAnArray) |
