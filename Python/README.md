@@ -50,6 +50,7 @@
 | SimpleFun#261WhoseMove             |  8kyu   |                         [SimpleFun#261WhoseMove](./8kyu/SimpleFun#261WhoseMove) |
 | SumOfMultiples                     |  8kyu   |                                         [SumOfMultiples](./8kyu/SumOfMultiples) |
 | SumTheStrings                      |  8kyu   |                                           [SumTheStrings](./8kyu/SumTheStrings) |
+| SumWithoutHighestAndLowestNumber   |  8kyu   |     [SumWithoutHighestAndLowestNumber](./8kyu/SumWithoutHighestAndLowestNumber) |
 | TheFallingSpeedOfPetals            |  8kyu   |                       [TheFallingSpeedOfPetals](./8kyu/TheFallingSpeedOfPetals) |
 | TheIfFunction                      |  8kyu   |                                           [TheIfFunction](./8kyu/TheIfFunction) |
 | TwiceAsOld                         |  8kyu   |                                                 [TwiceAsOld](./8kyu/TwiceAsOld) |
