@@ -24,6 +24,7 @@
 | SquareEveryDigit                   |  7kyu   |                                     [SquareEveryDigit](./7kyu/SquareEveryDigit) |
 | Testing1-2-3                       |  7kyu   |                                             [Testing1-2-3](./7kyu/Testing1-2-3) |
 | TheHighestProfitWins!              |  7kyu   |                           [TheHighestProfitWins!](./7kyu/TheHighestProfitWins!) |
+| 5WithoutNumbers!!                  |  8kyu   |                                   [5WithoutNumbers!!](./8kyu/5WithoutNumbers!!) |
 | AllStarCodeChallenge18             |  8kyu   |                         [AllStarCodeChallenge18](./8kyu/AllStarCodeChallenge18) |
 | AreaOrPerimeter                    |  8kyu   |                                       [AreaOrPerimeter](./8kyu/AreaOrPerimeter) |
 | ByteMe                             |  8kyu   |                                                         [ByteMe](./8kyu/ByteMe) |
