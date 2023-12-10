@@ -22,6 +22,7 @@
 | SmallestValueOfAnArray             |  7kyu   |                         [SmallestValueOfAnArray](./7kyu/SmallestValueOfAnArray) |
 | SnailCrawlsUp                      |  7kyu   |                                           [SnailCrawlsUp](./7kyu/SnailCrawlsUp) |
 | SquareEveryDigit                   |  7kyu   |                                     [SquareEveryDigit](./7kyu/SquareEveryDigit) |
+| SumOfTwoLowestPositiveIntegers     |  7kyu   |         [SumOfTwoLowestPositiveIntegers](./7kyu/SumOfTwoLowestPositiveIntegers) |
 | Testing1-2-3                       |  7kyu   |                                             [Testing1-2-3](./7kyu/Testing1-2-3) |
 | TheHighestProfitWins!              |  7kyu   |                           [TheHighestProfitWins!](./7kyu/TheHighestProfitWins!) |
 | 5WithoutNumbers!!                  |  8kyu   |                                   [5WithoutNumbers!!](./8kyu/5WithoutNumbers!!) |
