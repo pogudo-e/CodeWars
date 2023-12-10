@@ -21,7 +21,7 @@
 
 | Уровни | Решено |                Ссылка |
 | ------ | :----: | --------------------: |
-| 6kyu   |   5    | [6kyu](./Python/6kyu) |
+| 6kyu   |   6    | [6kyu](./Python/6kyu) |
 | 7kyu   |   12   | [7kyu](./Python/7kyu) |
 | 8kyu   |   33   | [8kyu](./Python/8kyu) |
 
