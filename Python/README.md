@@ -55,6 +55,7 @@
 | SumOfMultiples                          |  8kyu   |                                                           [SumOfMultiples](./8kyu/SumOfMultiples) |
 | SumTheStrings                           |  8kyu   |                                                             [SumTheStrings](./8kyu/SumTheStrings) |
 | SumWithoutHighestAndLowestNumber        |  8kyu   |                       [SumWithoutHighestAndLowestNumber](./8kyu/SumWithoutHighestAndLowestNumber) |
+| SwitchItUp!                             |  8kyu   |                                                                 [SwitchItUp!](./8kyu/SwitchItUp!) |
 | TheFallingSpeedOfPetals                 |  8kyu   |                                         [TheFallingSpeedOfPetals](./8kyu/TheFallingSpeedOfPetals) |
 | TheIfFunction                           |  8kyu   |                                                             [TheIfFunction](./8kyu/TheIfFunction) |
 | TwiceAsOld                              |  8kyu   |                                                                   [TwiceAsOld](./8kyu/TwiceAsOld) |
