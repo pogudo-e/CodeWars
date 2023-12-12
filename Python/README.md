@@ -43,6 +43,7 @@
 | Grasshopper-ArrayMean                   |  8kyu   |                                             [Grasshopper-ArrayMean](./8kyu/Grasshopper-ArrayMean) |
 | GrasshopperDebugSayHello                |  8kyu   |                                       [GrasshopperDebugSayHello](./8kyu/GrasshopperDebugSayHello) |
 | GrasshopperSummation                    |  8kyu   |                                               [GrasshopperSummation](./8kyu/GrasshopperSummation) |
+| HowGoodAreYouReally?                    |  8kyu   |                                               [HowGoodAreYouReally?](./8kyu/HowGoodAreYouReally?) |
 | IsItANumber                             |  8kyu   |                                                                 [IsItANumber](./8kyu/IsItANumber) |
 | KeepUpTheHoop                           |  8kyu   |                                                             [KeepUpTheHoop](./8kyu/KeepUpTheHoop) |
 | L1SetAlarm                              |  8kyu   |                                                                   [L1SetAlarm](./8kyu/L1SetAlarm) |
