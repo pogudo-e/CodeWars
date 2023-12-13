@@ -20,6 +20,7 @@
 | FindTheStrayNumber                      |  7kyu   |                                                   [FindTheStrayNumber](./7kyu/FindTheStrayNumber) |
 | FriendOrFoe?                            |  7kyu   |                                                               [FriendOrFoe?](./7kyu/FriendOrFoe?) |
 | GetTheMiddleCharacter                   |  7kyu   |                                             [GetTheMiddleCharacter](./7kyu/GetTheMiddleCharacter) |
+| NumberOfPeopleInTheBus                  |  7kyu   |                                           [NumberOfPeopleInTheBus](./7kyu/NumberOfPeopleInTheBus) |
 | ReverseWords                            |  7kyu   |                                                               [ReverseWords](./7kyu/ReverseWords) |
 | SmallestValueOfAnArray                  |  7kyu   |                                           [SmallestValueOfAnArray](./7kyu/SmallestValueOfAnArray) |
 | SnailCrawlsUp                           |  7kyu   |                                                             [SnailCrawlsUp](./7kyu/SnailCrawlsUp) |
