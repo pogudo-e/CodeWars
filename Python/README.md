@@ -54,6 +54,7 @@
 | ReversedSequence                        |  8kyu   |                                                       [ReversedSequence](./8kyu/ReversedSequence) |
 | ReversedWords                           |  8kyu   |                                                             [ReversedWords](./8kyu/ReversedWords) |
 | SimpleFun#261WhoseMove                  |  8kyu   |                                           [SimpleFun#261WhoseMove](./8kyu/SimpleFun#261WhoseMove) |
+| SortAndStar                             |  8kyu   |                                                                 [SortAndStar](./8kyu/SortAndStar) |
 | SumOfMultiples                          |  8kyu   |                                                           [SumOfMultiples](./8kyu/SumOfMultiples) |
 | SumTheStrings                           |  8kyu   |                                                             [SumTheStrings](./8kyu/SumTheStrings) |
 | SumWithoutHighestAndLowestNumber        |  8kyu   |                       [SumWithoutHighestAndLowestNumber](./8kyu/SumWithoutHighestAndLowestNumber) |
