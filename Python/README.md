@@ -13,6 +13,7 @@
 | CountCharactersInYourString             |  6kyu   |                                 [CountCharactersInYourString](./6kyu/CountCharactersInYourString) |
 | DetectPangram                           |  6kyu   |                                                             [DetectPangram](./6kyu/DetectPangram) |
 | PersistentBugger                        |  6kyu   |                                                       [PersistentBugger](./6kyu/PersistentBugger) |
+| ReplaceWithAlphabetPosition             |  6kyu   |                                 [ReplaceWithAlphabetPosition](./6kyu/ReplaceWithAlphabetPosition) |
 | TwoSum                                  |  6kyu   |                                                                           [TwoSum](./6kyu/TwoSum) |
 | YourOrderPlease                         |  6kyu   |                                                         [YourOrderPlease](./6kyu/YourOrderPlease) |
 | BeginnerLostWithoutAMap                 |  7kyu   |                                         [BeginnerLostWithoutAMap](./7kyu/BeginnerLostWithoutAMap) |
