@@ -18,6 +18,7 @@
 | TwoSum                                  |  6kyu   |                                                                           [TwoSum](./6kyu/TwoSum) |
 | UniqueInOrder                           |  6kyu   |                                                             [UniqueInOrder](./6kyu/UniqueInOrder) |
 | YourOrderPlease                         |  6kyu   |                                                         [YourOrderPlease](./6kyu/YourOrderPlease) |
+| AnagramDetection                        |  7kyu   |                                                       [AnagramDetection](./7kyu/AnagramDetection) |
 | BeginnerLostWithoutAMap                 |  7kyu   |                                         [BeginnerLostWithoutAMap](./7kyu/BeginnerLostWithoutAMap) |
 | DisemvowelTrolls                        |  7kyu   |                                                       [DisemvowelTrolls](./7kyu/DisemvowelTrolls) |
 | FindTheCapitals                         |  7kyu   |                                                         [FindTheCapitals](./7kyu/FindTheCapitals) |
