@@ -20,6 +20,7 @@
 | YourOrderPlease                         |  6kyu   |                                                         [YourOrderPlease](./6kyu/YourOrderPlease) |
 | AnagramDetection                        |  7kyu   |                                                       [AnagramDetection](./7kyu/AnagramDetection) |
 | BeginnerLostWithoutAMap                 |  7kyu   |                                         [BeginnerLostWithoutAMap](./7kyu/BeginnerLostWithoutAMap) |
+| BeginnerSeries#3SumOfNumbers            |  7kyu   |                               [BeginnerSeries#3SumOfNumbers](./7kyu/BeginnerSeries#3SumOfNumbers) |
 | DisemvowelTrolls                        |  7kyu   |                                                       [DisemvowelTrolls](./7kyu/DisemvowelTrolls) |
 | FindTheCapitals                         |  7kyu   |                                                         [FindTheCapitals](./7kyu/FindTheCapitals) |
 | FindTheStrayNumber                      |  7kyu   |                                                   [FindTheStrayNumber](./7kyu/FindTheStrayNumber) |
