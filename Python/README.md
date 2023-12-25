@@ -43,6 +43,7 @@
 | ChuckNorrisVii-TrueOrFalseBeginner      |  8kyu   |                   [ChuckNorrisVii-TrueOrFalseBeginner](./8kyu/ChuckNorrisVii-TrueOrFalseBeginner) |
 | ConvertANumberToAString                 |  8kyu   |                                         [ConvertANumberToAString](./8kyu/ConvertANumberToAString) |
 | DifferenceOfVolumesOfCuboids            |  8kyu   |                               [DifferenceOfVolumesOfCuboids](./8kyu/DifferenceOfVolumesOfCuboids) |
+| DrinkAbout                              |  8kyu   |                                                                   [DrinkAbout](./8kyu/DrinkAbout) |
 | FIXMEReplaseAllDots                     |  8kyu   |                                                 [FIXMEReplaseAllDots](./8kyu/FIXMEReplaseAllDots) |
 | FilterOutTheGreese                      |  8kyu   |                                                   [FilterOutTheGreese](./8kyu/FilterOutTheGreese) |
 | FindMultiplesOfANumber                  |  8kyu   |                                           [FindMultiplesOfANumber](./8kyu/FindMultiplesOfANumber) |
