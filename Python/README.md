@@ -26,6 +26,7 @@
 | FindTheStrayNumber                      |  7kyu   |                                                   [FindTheStrayNumber](./7kyu/FindTheStrayNumber) |
 | FriendOrFoe?                            |  7kyu   |                                                               [FriendOrFoe?](./7kyu/FriendOrFoe?) |
 | GetTheMiddleCharacter                   |  7kyu   |                                             [GetTheMiddleCharacter](./7kyu/GetTheMiddleCharacter) |
+| JadenCasingStrings                      |  7kyu   |                                                   [JadenCasingStrings](./7kyu/JadenCasingStrings) |
 | NumberOfPeopleInTheBus                  |  7kyu   |                                           [NumberOfPeopleInTheBus](./7kyu/NumberOfPeopleInTheBus) |
 | OddOrEven?                              |  7kyu   |                                                                   [OddOrEven?](./7kyu/OddOrEven?) |
 | ReverseWords                            |  7kyu   |                                                               [ReverseWords](./7kyu/ReverseWords) |
