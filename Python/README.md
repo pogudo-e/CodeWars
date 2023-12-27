@@ -14,6 +14,7 @@
 | DetectPangram                           |  6kyu   |                                                             [DetectPangram](./6kyu/DetectPangram) |
 | PersistentBugger                        |  6kyu   |                                                       [PersistentBugger](./6kyu/PersistentBugger) |
 | ReplaceWithAlphabetPosition             |  6kyu   |                                 [ReplaceWithAlphabetPosition](./6kyu/ReplaceWithAlphabetPosition) |
+| TheLatestClock                          |  6kyu   |                                                           [TheLatestClock](./6kyu/TheLatestClock) |
 | TitleCase                               |  6kyu   |                                                                     [TitleCase](./6kyu/TitleCase) |
 | TwoSum                                  |  6kyu   |                                                                           [TwoSum](./6kyu/TwoSum) |
 | UniqueInOrder                           |  6kyu   |                                                             [UniqueInOrder](./6kyu/UniqueInOrder) |
