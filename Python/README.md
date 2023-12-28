@@ -10,6 +10,7 @@
 | --------------------------------------- | :-----: | ------------------------------------------------------------------------------------------------: |
 | Beeramid                                |  5kyu   |                                                                       [Beeramid](./5kyu/Beeramid) |
 | AnotherOneDown—TheSurvivalOfTheFittest! |  6kyu   | [AnotherOneDown—TheSurvivalOfTheFittest!](./6kyu/AnotherOneDown%E2%80%94TheSurvivalOfTheFittest!) |
+| Array.Diff                              |  6kyu   |                                                                   [Array.Diff](./6kyu/Array.Diff) |
 | CountCharactersInYourString             |  6kyu   |                                 [CountCharactersInYourString](./6kyu/CountCharactersInYourString) |
 | DetectPangram                           |  6kyu   |                                                             [DetectPangram](./6kyu/DetectPangram) |
 | PersistentBugger                        |  6kyu   |                                                       [PersistentBugger](./6kyu/PersistentBugger) |
