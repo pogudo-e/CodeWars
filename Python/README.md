@@ -47,6 +47,7 @@
 | ByteMe                                  |  8kyu   |                                                                           [ByteMe](./8kyu/ByteMe) |
 | ChuckNorrisVii-TrueOrFalseBeginner      |  8kyu   |                   [ChuckNorrisVii-TrueOrFalseBeginner](./8kyu/ChuckNorrisVii-TrueOrFalseBeginner) |
 | ConvertANumberToAString                 |  8kyu   |                                         [ConvertANumberToAString](./8kyu/ConvertANumberToAString) |
+| CountByX                                |  8kyu   |                                                                       [CountByX](./8kyu/CountByX) |
 | DifferenceOfVolumesOfCuboids            |  8kyu   |                               [DifferenceOfVolumesOfCuboids](./8kyu/DifferenceOfVolumesOfCuboids) |
 | DrinkAbout                              |  8kyu   |                                                                   [DrinkAbout](./8kyu/DrinkAbout) |
 | FIXMEReplaseAllDots                     |  8kyu   |                                                 [FIXMEReplaseAllDots](./8kyu/FIXMEReplaseAllDots) |
@@ -73,6 +74,7 @@
 | ReversedWords                           |  8kyu   |                                                             [ReversedWords](./8kyu/ReversedWords) |
 | SimpleFun#261WhoseMove                  |  8kyu   |                                           [SimpleFun#261WhoseMove](./8kyu/SimpleFun#261WhoseMove) |
 | SortAndStar                             |  8kyu   |                                                                 [SortAndStar](./8kyu/SortAndStar) |
+| SumArrays                               |  8kyu   |                                                                     [SumArrays](./8kyu/SumArrays) |
 | SumOfMultiples                          |  8kyu   |                                                           [SumOfMultiples](./8kyu/SumOfMultiples) |
 | SumTheStrings                           |  8kyu   |                                                             [SumTheStrings](./8kyu/SumTheStrings) |
 | SumWithoutHighestAndLowestNumber        |  8kyu   |                       [SumWithoutHighestAndLowestNumber](./8kyu/SumWithoutHighestAndLowestNumber) |
