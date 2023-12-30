@@ -9,6 +9,7 @@
 | Имя                                     | Уровень |                                                                                            Ссылка |
 | --------------------------------------- | :-----: | ------------------------------------------------------------------------------------------------: |
 | Beeramid                                |  5kyu   |                                                                       [Beeramid](./5kyu/Beeramid) |
+| CalculatingWithFunctions                |  5kyu   |                                       [CalculatingWithFunctions](./5kyu/CalculatingWithFunctions) |
 | AnotherOneDown—TheSurvivalOfTheFittest! |  6kyu   | [AnotherOneDown—TheSurvivalOfTheFittest!](./6kyu/AnotherOneDown%E2%80%94TheSurvivalOfTheFittest!) |
 | Array.Diff                              |  6kyu   |                                                                   [Array.Diff](./6kyu/Array.Diff) |
 | CountCharactersInYourString             |  6kyu   |                                 [CountCharactersInYourString](./6kyu/CountCharactersInYourString) |
