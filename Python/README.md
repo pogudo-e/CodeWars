@@ -14,6 +14,7 @@
 | Array.Diff                              |  6kyu   |                                                                   [Array.Diff](./6kyu/Array.Diff) |
 | CountCharactersInYourString             |  6kyu   |                                 [CountCharactersInYourString](./6kyu/CountCharactersInYourString) |
 | DetectPangram                           |  6kyu   |                                                             [DetectPangram](./6kyu/DetectPangram) |
+| HighestScoringWord                      |  6kyu   |                                                   [HighestScoringWord](./6kyu/HighestScoringWord) |
 | PersistentBugger                        |  6kyu   |                                                       [PersistentBugger](./6kyu/PersistentBugger) |
 | ReplaceWithAlphabetPosition             |  6kyu   |                                 [ReplaceWithAlphabetPosition](./6kyu/ReplaceWithAlphabetPosition) |
 | TheLatestClock                          |  6kyu   |                                                           [TheLatestClock](./6kyu/TheLatestClock) |
