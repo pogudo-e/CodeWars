@@ -75,6 +75,7 @@
 | ReturnNegative                          |  8kyu   |                                                           [ReturnNegative](./8kyu/ReturnNegative) |
 | ReversedSequence                        |  8kyu   |                                                       [ReversedSequence](./8kyu/ReversedSequence) |
 | ReversedWords                           |  8kyu   |                                                             [ReversedWords](./8kyu/ReversedWords) |
+| ReversingWordsInAString                 |  8kyu   |                                         [ReversingWordsInAString](./8kyu/ReversingWordsInAString) |
 | SimpleFun#261WhoseMove                  |  8kyu   |                                           [SimpleFun#261WhoseMove](./8kyu/SimpleFun#261WhoseMove) |
 | SortAndStar                             |  8kyu   |                                                                 [SortAndStar](./8kyu/SortAndStar) |
 | SumArrays                               |  8kyu   |                                                                     [SumArrays](./8kyu/SumArrays) |
