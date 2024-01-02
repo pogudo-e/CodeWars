@@ -15,6 +15,7 @@
 | CountCharactersInYourString             |  6kyu   |                                 [CountCharactersInYourString](./6kyu/CountCharactersInYourString) |
 | DetectPangram                           |  6kyu   |                                                             [DetectPangram](./6kyu/DetectPangram) |
 | HighestScoringWord                      |  6kyu   |                                                   [HighestScoringWord](./6kyu/HighestScoringWord) |
+| MexicanWave                             |  6kyu   |                                                                 [MexicanWave](./6kyu/MexicanWave) |
 | PersistentBugger                        |  6kyu   |                                                       [PersistentBugger](./6kyu/PersistentBugger) |
 | ReplaceWithAlphabetPosition             |  6kyu   |                                 [ReplaceWithAlphabetPosition](./6kyu/ReplaceWithAlphabetPosition) |
 | TheLatestClock                          |  6kyu   |                                                           [TheLatestClock](./6kyu/TheLatestClock) |
