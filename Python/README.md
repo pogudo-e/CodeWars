@@ -74,6 +74,7 @@
 | PriceOfMangoes                          |  8kyu   |                                                           [PriceOfMangoes](./8kyu/PriceOfMangoes) |
 | QuarterOfTheYear                        |  8kyu   |                                                       [QuarterOfTheYear](./8kyu/QuarterOfTheYear) |
 | ReturnNegative                          |  8kyu   |                                                           [ReturnNegative](./8kyu/ReturnNegative) |
+| ReverseListOrder                        |  8kyu   |                                                       [ReverseListOrder](./8kyu/ReverseListOrder) |
 | ReversedSequence                        |  8kyu   |                                                       [ReversedSequence](./8kyu/ReversedSequence) |
 | ReversedWords                           |  8kyu   |                                                             [ReversedWords](./8kyu/ReversedWords) |
 | ReversingWordsInAString                 |  8kyu   |                                         [ReversingWordsInAString](./8kyu/ReversingWordsInAString) |
