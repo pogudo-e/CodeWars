@@ -33,6 +33,7 @@
 | FriendOrFoe?                            |  7kyu   |                                                               [FriendOrFoe?](./7kyu/FriendOrFoe?) |
 | GetTheMiddleCharacter                   |  7kyu   |                                             [GetTheMiddleCharacter](./7kyu/GetTheMiddleCharacter) |
 | JadenCasingStrings                      |  7kyu   |                                                   [JadenCasingStrings](./7kyu/JadenCasingStrings) |
+| ListFiltering                           |  7kyu   |                                                             [ListFiltering](./7kyu/ListFiltering) |
 | NumberOfPeopleInTheBus                  |  7kyu   |                                           [NumberOfPeopleInTheBus](./7kyu/NumberOfPeopleInTheBus) |
 | OddOrEven?                              |  7kyu   |                                                                   [OddOrEven?](./7kyu/OddOrEven?) |
 | OnesAndZeros                            |  7kyu   |                                                               [OnesAndZeros](./7kyu/OnesAndZeros) |
