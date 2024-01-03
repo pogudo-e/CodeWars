@@ -48,6 +48,7 @@
 | 5WithoutNumbers!!                       |  8kyu   |                                                     [5WithoutNumbers!!](./8kyu/5WithoutNumbers!!) |
 | AllStarCodeChallenge18                  |  8kyu   |                                           [AllStarCodeChallenge18](./8kyu/AllStarCodeChallenge18) |
 | AreaOrPerimeter                         |  8kyu   |                                                         [AreaOrPerimeter](./8kyu/AreaOrPerimeter) |
+| BeginnerSeries#4Cockroach               |  8kyu   |                                     [BeginnerSeries#4Cockroach](./8kyu/BeginnerSeries#4Cockroach) |
 | ByteMe                                  |  8kyu   |                                                                           [ByteMe](./8kyu/ByteMe) |
 | ChuckNorrisVii-TrueOrFalseBeginner      |  8kyu   |                   [ChuckNorrisVii-TrueOrFalseBeginner](./8kyu/ChuckNorrisVii-TrueOrFalseBeginner) |
 | ConvertANumberToAString                 |  8kyu   |                                         [ConvertANumberToAString](./8kyu/ConvertANumberToAString) |
