@@ -89,6 +89,7 @@
 | SwitchItUp!                             |  8kyu   |                                                                 [SwitchItUp!](./8kyu/SwitchItUp!) |
 | TheFallingSpeedOfPetals                 |  8kyu   |                                         [TheFallingSpeedOfPetals](./8kyu/TheFallingSpeedOfPetals) |
 | TheIfFunction                           |  8kyu   |                                                             [TheIfFunction](./8kyu/TheIfFunction) |
+| ThirdAngleOfATriangle                   |  8kyu   |                                             [ThirdAngleOfATriangle](./8kyu/ThirdAngleOfATriangle) |
 | TotalAmountOfPoints                     |  8kyu   |                                                 [TotalAmountOfPoints](./8kyu/TotalAmountOfPoints) |
 | TwiceAsOld                              |  8kyu   |                                                                   [TwiceAsOld](./8kyu/TwiceAsOld) |
 | UnfinishedLoop-Bugfix1                  |  8kyu   |                                           [UnfinishedLoop-Bugfix1](./8kyu/UnfinishedLoop-Bugfix1) |
