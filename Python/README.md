@@ -57,6 +57,7 @@
 | DifferenceOfVolumesOfCuboids                        |  8kyu   |                                               [DifferenceOfVolumesOfCuboids](./8kyu/DifferenceOfVolumesOfCuboids) |
 | DrinkAbout                                          |  8kyu   |                                                                                   [DrinkAbout](./8kyu/DrinkAbout) |
 | FIXMEReplaseAllDots                                 |  8kyu   |                                                                 [FIXMEReplaseAllDots](./8kyu/FIXMEReplaseAllDots) |
+| FakeBinary                                          |  8kyu   |                                                                                   [FakeBinary](./8kyu/FakeBinary) |
 | FilterOutTheGreese                                  |  8kyu   |                                                                   [FilterOutTheGreese](./8kyu/FilterOutTheGreese) |
 | FindMultiplesOfANumber                              |  8kyu   |                                                           [FindMultiplesOfANumber](./8kyu/FindMultiplesOfANumber) |
 | FindTheRemainder                                    |  8kyu   |                                                                       [FindTheRemainder](./8kyu/FindTheRemainder) |
