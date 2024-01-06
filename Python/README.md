@@ -81,6 +81,7 @@
 | PowersOf2                                           |  8kyu   |                                                                                     [PowersOf2](./8kyu/PowersOf2) |
 | PriceOfMangoes                                      |  8kyu   |                                                                           [PriceOfMangoes](./8kyu/PriceOfMangoes) |
 | QuarterOfTheYear                                    |  8kyu   |                                                                       [QuarterOfTheYear](./8kyu/QuarterOfTheYear) |
+| RemovingElements                                    |  8kyu   |                                                                       [RemovingElements](./8kyu/RemovingElements) |
 | ReturnNegative                                      |  8kyu   |                                                                           [ReturnNegative](./8kyu/ReturnNegative) |
 | ReverseListOrder                                    |  8kyu   |                                                                       [ReverseListOrder](./8kyu/ReverseListOrder) |
 | ReversedSequence                                    |  8kyu   |                                                                       [ReversedSequence](./8kyu/ReversedSequence) |
