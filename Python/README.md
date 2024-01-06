@@ -96,5 +96,6 @@
 | TotalAmountOfPoints                                 |  8kyu   |                                                                 [TotalAmountOfPoints](./8kyu/TotalAmountOfPoints) |
 | TwiceAsOld                                          |  8kyu   |                                                                                   [TwiceAsOld](./8kyu/TwiceAsOld) |
 | UnfinishedLoop-Bugfix1                              |  8kyu   |                                                           [UnfinishedLoop-Bugfix1](./8kyu/UnfinishedLoop-Bugfix1) |
+| VolumeOfACuboid                                     |  8kyu   |                                                                         [VolumeOfACuboid](./8kyu/VolumeOfACuboid) |
 | WhatIsBetween?                                      |  8kyu   |                                                                           [WhatIsBetween?](./8kyu/WhatIsBetween?) |
 | WhoIsGoingToPayForTheWall?                          |  8kyu   |                                                   [WhoIsGoingToPayForTheWall?](./8kyu/WhoIsGoingToPayForTheWall?) |
