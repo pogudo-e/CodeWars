@@ -66,6 +66,7 @@
 | FlickSwitch                                         |  8kyu   |                                                                                 [FlickSwitch](./8kyu/FlickSwitch) |
 | Function1-HelloWorld                                |  8kyu   |                                                               [Function1-HelloWorld](./8kyu/Function1-HelloWorld) |
 | Function2-SquaringAnArgument                        |  8kyu   |                                               [Function2-SquaringAnArgument](./8kyu/Function2-SquaringAnArgument) |
+| GetCharacterFromAsciiValue                          |  8kyu   |                                                   [GetCharacterFromAsciiValue](./8kyu/GetCharacterFromAsciiValue) |
 | Grasshopper-ArrayMean                               |  8kyu   |                                                             [Grasshopper-ArrayMean](./8kyu/Grasshopper-ArrayMean) |
 | GrasshopperDebugSayHello                            |  8kyu   |                                                       [GrasshopperDebugSayHello](./8kyu/GrasshopperDebugSayHello) |
 | GrasshopperSummation                                |  8kyu   |                                                               [GrasshopperSummation](./8kyu/GrasshopperSummation) |
