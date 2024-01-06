@@ -70,6 +70,7 @@
 | Grasshopper-ArrayMean                               |  8kyu   |                                                             [Grasshopper-ArrayMean](./8kyu/Grasshopper-ArrayMean) |
 | GrasshopperDebugSayHello                            |  8kyu   |                                                       [GrasshopperDebugSayHello](./8kyu/GrasshopperDebugSayHello) |
 | GrasshopperSummation                                |  8kyu   |                                                               [GrasshopperSummation](./8kyu/GrasshopperSummation) |
+| HelloNameOrWorld!                                   |  8kyu   |                                                                     [HelloNameOrWorld!](./8kyu/HelloNameOrWorld!) |
 | HowGoodAreYouReally?                                |  8kyu   |                                                               [HowGoodAreYouReally?](./8kyu/HowGoodAreYouReally?) |
 | InvertValues                                        |  8kyu   |                                                                               [InvertValues](./8kyu/InvertValues) |
 | IsItANumber                                         |  8kyu   |                                                                                 [IsItANumber](./8kyu/IsItANumber) |
