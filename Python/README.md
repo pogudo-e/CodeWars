@@ -73,6 +73,7 @@
 | IsItEven?                                           |  8kyu   |                                                                                     [IsItEven?](./8kyu/IsItEven?) |
 | KeepUpTheHoop                                       |  8kyu   |                                                                             [KeepUpTheHoop](./8kyu/KeepUpTheHoop) |
 | L1SetAlarm                                          |  8kyu   |                                                                                   [L1SetAlarm](./8kyu/L1SetAlarm) |
+| LarioAndMuigiPipeProblem                            |  8kyu   |                                                       [LarioAndMuigiPipeProblem](./8kyu/LarioAndMuigiPipeProblem) |
 | ParseNiceIntFromCharProblem                         |  8kyu   |                                                 [ParseNiceIntFromCharProblem](./8kyu/ParseNiceIntFromCharProblem) |
 | PowersOf2                                           |  8kyu   |                                                                                     [PowersOf2](./8kyu/PowersOf2) |
 | PriceOfMangoes                                      |  8kyu   |                                                                           [PriceOfMangoes](./8kyu/PriceOfMangoes) |
