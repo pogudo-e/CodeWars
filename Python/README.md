@@ -42,6 +42,7 @@
 | SimpleFun#176ReverseLetter                          |  7kyu   |                                                   [SimpleFun#176ReverseLetter](./7kyu/SimpleFun#176ReverseLetter) |
 | SmallestValueOfAnArray                              |  7kyu   |                                                           [SmallestValueOfAnArray](./7kyu/SmallestValueOfAnArray) |
 | SnailCrawlsUp                                       |  7kyu   |                                                                             [SnailCrawlsUp](./7kyu/SnailCrawlsUp) |
+| SortArrayByStringLength                             |  7kyu   |                                                         [SortArrayByStringLength](./7kyu/SortArrayByStringLength) |
 | SquareEveryDigit                                    |  7kyu   |                                                                       [SquareEveryDigit](./7kyu/SquareEveryDigit) |
 | SumOfASequence                                      |  7kyu   |                                                                           [SumOfASequence](./7kyu/SumOfASequence) |
 | SumOfTwoLowestPositiveIntegers                      |  7kyu   |                                           [SumOfTwoLowestPositiveIntegers](./7kyu/SumOfTwoLowestPositiveIntegers) |
