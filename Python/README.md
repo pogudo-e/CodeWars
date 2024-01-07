@@ -62,6 +62,7 @@
 | FakeBinary                                          |  8kyu   |                                                                                   [FakeBinary](./8kyu/FakeBinary) |
 | FilterOutTheGreese                                  |  8kyu   |                                                                   [FilterOutTheGreese](./8kyu/FilterOutTheGreese) |
 | FindMultiplesOfANumber                              |  8kyu   |                                                           [FindMultiplesOfANumber](./8kyu/FindMultiplesOfANumber) |
+| FindThePosition!                                    |  8kyu   |                                                                       [FindThePosition!](./8kyu/FindThePosition!) |
 | FindTheRemainder                                    |  8kyu   |                                                                       [FindTheRemainder](./8kyu/FindTheRemainder) |
 | FlickSwitch                                         |  8kyu   |                                                                                 [FlickSwitch](./8kyu/FlickSwitch) |
 | Function1-HelloWorld                                |  8kyu   |                                                               [Function1-HelloWorld](./8kyu/Function1-HelloWorld) |
