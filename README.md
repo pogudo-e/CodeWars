@@ -24,7 +24,7 @@
 | 5kyu   |   2    | [5kyu](./Python/5kyu) |
 | 6kyu   |   13   | [6kyu](./Python/6kyu) |
 | 7kyu   |   24   | [7kyu](./Python/7kyu) |
-| 8kyu   |   57   | [8kyu](./Python/8kyu) |
+| 8kyu   |   58   | [8kyu](./Python/8kyu) |
 
 ______________________________________________________________________
 
