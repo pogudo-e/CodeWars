@@ -95,6 +95,7 @@
 | SimpleFun#261WhoseMove                              |  8kyu   |                                                           [SimpleFun#261WhoseMove](./8kyu/SimpleFun#261WhoseMove) |
 | SortAndStar                                         |  8kyu   |                                                                                 [SortAndStar](./8kyu/SortAndStar) |
 | SumArrays                                           |  8kyu   |                                                                                     [SumArrays](./8kyu/SumArrays) |
+| SumMixedArray                                       |  8kyu   |                                                                             [SumMixedArray](./8kyu/SumMixedArray) |
 | SumOfMultiples                                      |  8kyu   |                                                                           [SumOfMultiples](./8kyu/SumOfMultiples) |
 | SumTheStrings                                       |  8kyu   |                                                                             [SumTheStrings](./8kyu/SumTheStrings) |
 | SumWithoutHighestAndLowestNumber                    |  8kyu   |                                       [SumWithoutHighestAndLowestNumber](./8kyu/SumWithoutHighestAndLowestNumber) |
