@@ -49,6 +49,7 @@
 | Testing1-2-3                                        |  7kyu   |                                                                               [Testing1-2-3](./7kyu/Testing1-2-3) |
 | TheHighestProfitWins!                               |  7kyu   |                                                             [TheHighestProfitWins!](./7kyu/TheHighestProfitWins!) |
 | 5WithoutNumbers!!                                   |  8kyu   |                                                                     [5WithoutNumbers!!](./8kyu/5WithoutNumbers!!) |
+| AWolfInSheepSClothing                               |  8kyu   |                                                             [AWolfInSheepSClothing](./8kyu/AWolfInSheepSClothing) |
 | AllStarCodeChallenge18                              |  8kyu   |                                                           [AllStarCodeChallenge18](./8kyu/AllStarCodeChallenge18) |
 | AreaOrPerimeter                                     |  8kyu   |                                                                         [AreaOrPerimeter](./8kyu/AreaOrPerimeter) |
 | BeginnerSeries#4Cockroach                           |  8kyu   |                                                     [BeginnerSeries#4Cockroach](./8kyu/BeginnerSeries#4Cockroach) |
