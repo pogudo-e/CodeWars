@@ -66,6 +66,7 @@
 | FindMultiplesOfANumber                              |  8kyu   |                                                           [FindMultiplesOfANumber](./8kyu/FindMultiplesOfANumber) |
 | FindThePosition!                                    |  8kyu   |                                                                       [FindThePosition!](./8kyu/FindThePosition!) |
 | FindTheRemainder                                    |  8kyu   |                                                                       [FindTheRemainder](./8kyu/FindTheRemainder) |
+| FixYourCodeBeforeTheGardenDies!                     |  8kyu   |                                         [FixYourCodeBeforeTheGardenDies!](./8kyu/FixYourCodeBeforeTheGardenDies!) |
 | FlickSwitch                                         |  8kyu   |                                                                                 [FlickSwitch](./8kyu/FlickSwitch) |
 | Function1-HelloWorld                                |  8kyu   |                                                               [Function1-HelloWorld](./8kyu/Function1-HelloWorld) |
 | Function2-SquaringAnArgument                        |  8kyu   |                                               [Function2-SquaringAnArgument](./8kyu/Function2-SquaringAnArgument) |
