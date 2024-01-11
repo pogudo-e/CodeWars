@@ -23,6 +23,7 @@
 | TwoSum                                              |  6kyu   |                                                                                           [TwoSum](./6kyu/TwoSum) |
 | UniqueInOrder                                       |  6kyu   |                                                                             [UniqueInOrder](./6kyu/UniqueInOrder) |
 | YourOrderPlease                                     |  6kyu   |                                                                         [YourOrderPlease](./6kyu/YourOrderPlease) |
+| AlternateCapitalization                             |  7kyu   |                                                         [AlternateCapitalization](./7kyu/AlternateCapitalization) |
 | AnagramDetection                                    |  7kyu   |                                                                       [AnagramDetection](./7kyu/AnagramDetection) |
 | BeginnerLostWithoutAMap                             |  7kyu   |                                                         [BeginnerLostWithoutAMap](./7kyu/BeginnerLostWithoutAMap) |
 | BeginnerSeries#3SumOfNumbers                        |  7kyu   |                                               [BeginnerSeries#3SumOfNumbers](./7kyu/BeginnerSeries#3SumOfNumbers) |
