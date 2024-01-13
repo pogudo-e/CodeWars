@@ -30,6 +30,7 @@
 | CategorizeNewMember                                 |  7kyu   |                                                                 [CategorizeNewMember](./7kyu/CategorizeNewMember) |
 | CountTheDigit                                       |  7kyu   |                                                                             [CountTheDigit](./7kyu/CountTheDigit) |
 | DisemvowelTrolls                                    |  7kyu   |                                                                       [DisemvowelTrolls](./7kyu/DisemvowelTrolls) |
+| Factorial                                           |  7kyu   |                                                                                     [Factorial](./7kyu/Factorial) |
 | FindTheCapitals                                     |  7kyu   |                                                                         [FindTheCapitals](./7kyu/FindTheCapitals) |
 | FindTheStrayNumber                                  |  7kyu   |                                                                   [FindTheStrayNumber](./7kyu/FindTheStrayNumber) |
 | FriendOrFoe?                                        |  7kyu   |                                                                               [FriendOrFoe?](./7kyu/FriendOrFoe?) |
