@@ -22,6 +22,7 @@
 | TitleCase                                           |  6kyu   |                                                                                     [TitleCase](./6kyu/TitleCase) |
 | TwoSum                                              |  6kyu   |                                                                                           [TwoSum](./6kyu/TwoSum) |
 | UniqueInOrder                                       |  6kyu   |                                                                             [UniqueInOrder](./6kyu/UniqueInOrder) |
+| WhoLikesIt?                                         |  6kyu   |                                                                                 [WhoLikesIt?](./6kyu/WhoLikesIt?) |
 | YourOrderPlease                                     |  6kyu   |                                                                         [YourOrderPlease](./6kyu/YourOrderPlease) |
 | AlternateCapitalization                             |  7kyu   |                                                         [AlternateCapitalization](./7kyu/AlternateCapitalization) |
 | AnagramDetection                                    |  7kyu   |                                                                       [AnagramDetection](./7kyu/AnagramDetection) |
