@@ -41,6 +41,7 @@
 | NumberOfPeopleInTheBus                              |  7kyu   |                                                           [NumberOfPeopleInTheBus](./7kyu/NumberOfPeopleInTheBus) |
 | OddOrEven?                                          |  7kyu   |                                                                                   [OddOrEven?](./7kyu/OddOrEven?) |
 | OnesAndZeros                                        |  7kyu   |                                                                               [OnesAndZeros](./7kyu/OnesAndZeros) |
+| RemoveAnchorFromUrl                                 |  7kyu   |                                                                 [RemoveAnchorFromUrl](./7kyu/RemoveAnchorFromUrl) |
 | ReverseWords                                        |  7kyu   |                                                                               [ReverseWords](./7kyu/ReverseWords) |
 | SimpleFun#176ReverseLetter                          |  7kyu   |                                                   [SimpleFun#176ReverseLetter](./7kyu/SimpleFun#176ReverseLetter) |
 | SmallestValueOfAnArray                              |  7kyu   |                                                           [SmallestValueOfAnArray](./7kyu/SmallestValueOfAnArray) |
