@@ -116,5 +116,6 @@
 | TwiceAsOld                                          |  8kyu   |                                                                                   [TwiceAsOld](./8kyu/TwiceAsOld) |
 | UnfinishedLoop-Bugfix1                              |  8kyu   |                                                           [UnfinishedLoop-Bugfix1](./8kyu/UnfinishedLoop-Bugfix1) |
 | VolumeOfACuboid                                     |  8kyu   |                                                                         [VolumeOfACuboid](./8kyu/VolumeOfACuboid) |
+| WelcomeToTheCity                                    |  8kyu   |                                                                       [WelcomeToTheCity](./8kyu/WelcomeToTheCity) |
 | WhatIsBetween?                                      |  8kyu   |                                                                           [WhatIsBetween?](./8kyu/WhatIsBetween?) |
 | WhoIsGoingToPayForTheWall?                          |  8kyu   |                                                   [WhoIsGoingToPayForTheWall?](./8kyu/WhoIsGoingToPayForTheWall?) |
