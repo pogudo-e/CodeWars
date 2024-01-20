@@ -66,6 +66,7 @@
 | DifferenceOfVolumesOfCuboids                        |  8kyu   |                                               [DifferenceOfVolumesOfCuboids](./8kyu/DifferenceOfVolumesOfCuboids) |
 | DrinkAbout                                          |  8kyu   |                                                                                   [DrinkAbout](./8kyu/DrinkAbout) |
 | EnumerableMagic#25-TakeTheFirstNElements            |  8kyu   |                       [EnumerableMagic#25-TakeTheFirstNElements](./8kyu/EnumerableMagic#25-TakeTheFirstNElements) |
+| ExpressionsMatter                                   |  8kyu   |                                                                     [ExpressionsMatter](./8kyu/ExpressionsMatter) |
 | FIXMEReplaseAllDots                                 |  8kyu   |                                                                 [FIXMEReplaseAllDots](./8kyu/FIXMEReplaseAllDots) |
 | FakeBinary                                          |  8kyu   |                                                                                   [FakeBinary](./8kyu/FakeBinary) |
 | FilterOutTheGreese                                  |  8kyu   |                                                                   [FilterOutTheGreese](./8kyu/FilterOutTheGreese) |
