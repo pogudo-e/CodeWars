@@ -43,6 +43,7 @@
 | OnesAndZeros                                        |  7kyu   |                                                                               [OnesAndZeros](./7kyu/OnesAndZeros) |
 | RemoveAnchorFromUrl                                 |  7kyu   |                                                                 [RemoveAnchorFromUrl](./7kyu/RemoveAnchorFromUrl) |
 | ReverseWords                                        |  7kyu   |                                                                               [ReverseWords](./7kyu/ReverseWords) |
+| RoundUpToTheNextMultipleOf5                         |  7kyu   |                                                 [RoundUpToTheNextMultipleOf5](./7kyu/RoundUpToTheNextMultipleOf5) |
 | SimpleFun#176ReverseLetter                          |  7kyu   |                                                   [SimpleFun#176ReverseLetter](./7kyu/SimpleFun#176ReverseLetter) |
 | SmallestValueOfAnArray                              |  7kyu   |                                                           [SmallestValueOfAnArray](./7kyu/SmallestValueOfAnArray) |
 | SnailCrawlsUp                                       |  7kyu   |                                                                             [SnailCrawlsUp](./7kyu/SnailCrawlsUp) |
