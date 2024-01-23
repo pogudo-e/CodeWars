@@ -106,6 +106,7 @@
 | ReversingWordsInAString                             |  8kyu   |                                                         [ReversingWordsInAString](./8kyu/ReversingWordsInAString) |
 | SimpleFun#261WhoseMove                              |  8kyu   |                                                           [SimpleFun#261WhoseMove](./8kyu/SimpleFun#261WhoseMove) |
 | SortAndStar                                         |  8kyu   |                                                                                 [SortAndStar](./8kyu/SortAndStar) |
+| StringCleaning                                      |  8kyu   |                                                                           [StringCleaning](./8kyu/StringCleaning) |
 | SumArrays                                           |  8kyu   |                                                                                     [SumArrays](./8kyu/SumArrays) |
 | SumMixedArray                                       |  8kyu   |                                                                             [SumMixedArray](./8kyu/SumMixedArray) |
 | SumOfMultiples                                      |  8kyu   |                                                                           [SumOfMultiples](./8kyu/SumOfMultiples) |
