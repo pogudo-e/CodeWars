@@ -14,6 +14,7 @@
 | Array.Diff                                          |  6kyu   |                                                                                   [Array.Diff](./6kyu/Array.Diff) |
 | CountCharactersInYourString                         |  6kyu   |                                                 [CountCharactersInYourString](./6kyu/CountCharactersInYourString) |
 | DetectPangram                                       |  6kyu   |                                                                             [DetectPangram](./6kyu/DetectPangram) |
+| FindTheUniqueNumber                                 |  6kyu   |                                                                 [FindTheUniqueNumber](./6kyu/FindTheUniqueNumber) |
 | HighestScoringWord                                  |  6kyu   |                                                                   [HighestScoringWord](./6kyu/HighestScoringWord) |
 | MexicanWave                                         |  6kyu   |                                                                                 [MexicanWave](./6kyu/MexicanWave) |
 | PersistentBugger                                    |  6kyu   |                                                                       [PersistentBugger](./6kyu/PersistentBugger) |
