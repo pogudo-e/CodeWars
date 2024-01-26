@@ -86,6 +86,7 @@
 | GrasshopperDebugSayHello                            |  8kyu   |                                                       [GrasshopperDebugSayHello](./8kyu/GrasshopperDebugSayHello) |
 | GrasshopperSummation                                |  8kyu   |                                                               [GrasshopperSummation](./8kyu/GrasshopperSummation) |
 | HelloNameOrWorld!                                   |  8kyu   |                                                                     [HelloNameOrWorld!](./8kyu/HelloNameOrWorld!) |
+| HexToDecimal                                        |  8kyu   |                                                                               [HexToDecimal](./8kyu/HexToDecimal) |
 | HowGoodAreYouReally?                                |  8kyu   |                                                               [HowGoodAreYouReally?](./8kyu/HowGoodAreYouReally?) |
 | ILoveYouALittleALotPassionately...NotAtAll          |  8kyu   |                   [ILoveYouALittleALotPassionately...NotAtAll](./8kyu/ILoveYouALittleALotPassionately...NotAtAll) |
 | InvertValues                                        |  8kyu   |                                                                               [InvertValues](./8kyu/InvertValues) |
